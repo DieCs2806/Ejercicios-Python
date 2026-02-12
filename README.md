@@ -3,7 +3,7 @@ Clase de Procesamiento de Datos
 
 Ejercicios hechos por: Diego Céspedes
 
-A continuación se hace una breve descripción de cada cuaderno de la actividad
+A continuación se hace una breve descripción de cada cuaderno de la actividad, hecha después de la ejecución de cada uno de estos cuadernos:
 
 1. En esta primner cuaderno, se ven principios básicos de python, especificamente el manejo de cadenas. Aprendemos como se crean, y que métodos tenemos disponibles, como la concatenación, el manejo de índices o la búsqueda de subcadenas
 
